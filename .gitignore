@@ -1,0 +1,5 @@
+/data/*
+/model/*
+
+!data/.gitkeep 
+!model/.gitkeep
